@@ -1,0 +1,2 @@
+# Hayjude-Assets
+bucket
